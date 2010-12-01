@@ -1,0 +1,12 @@
+CACHE MANIFEST
+
+# Bump this with each release:
+# Serial number 2
+
+index.html
+js/8pen.js
+css/styles.css
+img/apple-touch-icon.png
+img/board.png
+
+NETWORK:
