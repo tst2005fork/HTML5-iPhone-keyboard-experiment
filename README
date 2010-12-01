@@ -3,5 +3,14 @@
 @author: Max Berndt
 @email: mexx.berndt@googlemail.com
 @version: 0.1
+@website of original android version: http://www.the8pen.com
 
-8pen is innovative keyboard replacement introduced by 3qubits for Android. This is an experimental HTML5 version of it.
+8pen is innovative keyboard replacement introduced by 3qubits for Android. This is an experimental HTML5 version of it. Improvements and modifications are highly appreciated.
+
+I wrote this app also to the purpose of learning new technologies that appear under the buzz word "HTML5":
+
+-local.storage
+-cache.manifest
+-apple-mobile-web-app-capable
+-Mobile Safari's Touch API
+-HTML5 DOCTYPE and elements like <section>
